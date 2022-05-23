@@ -5,7 +5,8 @@
         <title>Blog</title>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-        <a href='/posts/create'>create</a>
+        <link rel="stylesheet" href="{{ asset('css/style.css')}}">
+        <a href='/posts/create'>記事を書く</a>
     </head>
     <body>
         <h1>恋愛相談所</h1>
