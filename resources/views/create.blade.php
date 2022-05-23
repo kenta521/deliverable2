@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Blog</title>
+        <link rel="stylesheet" href="{{ asset('css/create.css')}}">
     </head>
     <body>
         <h1>恋愛相談所</h1>

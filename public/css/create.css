@@ -1,0 +1,11 @@
+h1 {
+    font-size: 50px; text-align: center; font-family: 游明朝;
+}
+
+html {
+   background-color: #ff69b4;
+ }
+ 
+ .title , .body , form , div {
+     text-align: center;
+ }
